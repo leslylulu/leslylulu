@@ -3,7 +3,6 @@
 - 🏦 I'm a Front-end Development Engineer in China 
 - 💻 I use daily **.js**, **.jsx**, **.ts**, **.tsx**, **css**, **scss**
 - 📖 I am currently reading **你不知道的javascript** 
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 
 ⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 72.34 % as on ⏰ 21-Sep-2021
 
