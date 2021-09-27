@@ -4,7 +4,6 @@
 - 💻 I use daily **.js**, **.jsx**, **.ts**, **.tsx**, **css**, **scss**
 - 📖 I am currently reading **你不知道的javascript** 
 
-⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 72.34 % as on ⏰ 21-Sep-2021
 
 <!--
 **DearLulu1995/DearLulu1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
