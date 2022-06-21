@@ -2,8 +2,8 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a Front-end Development Engineer in China 
 - 💻 I use daily **.js**, **.jsx**, **.ts**, **.tsx**, **css**, **scss**
-- 📖 I am currently reading **你不知道的javascript** 
-
+- 📖 I am currently reading **《你不知道的javascript》** 
+- 逐渐没有读了，因为说实话，有点生涩
 
 <!--
 **DearLulu1995/DearLulu1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
