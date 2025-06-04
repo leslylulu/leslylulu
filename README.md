@@ -1,4 +1,7 @@
-### Hi there 👋
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+# Hi there 👋
+
+![preview my website](./asstes/preview.jpg)
+
+## About Me:
 I’m really excited about creating and building practical front-end tools that solve real problems.
 
